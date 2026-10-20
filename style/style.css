@@ -133,3 +133,18 @@ a{
     border: 1px solid #fdfd3bea;
     border-radius: 999px;
 }
+
+.rodape{
+    margin-top: 40px;
+    padding: 25px;
+    background-color: #0d3d6c;
+
+    text-align: center;
+}
+ 
+.rodape p{
+    color: white;
+}
+.rodape a{
+    color: #3d62f9;
+}
