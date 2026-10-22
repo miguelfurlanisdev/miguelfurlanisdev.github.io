@@ -1,0 +1,29 @@
+.secao{
+    padding: 24px;
+    margin: 25px 0;
+
+    background-color: white;
+
+    border: 1px solid #dbe2ea;
+    border-radius: 8px;
+}
+
+.projeto-card{
+    margin-bottom: 18px;
+    padding: 20px;
+
+    background-color: #f8fafc;
+    border: 1px solid #cdb5e1;
+    border-radius: 8px;
+}
+
+.code{
+    overflow-x: auto;
+
+    padding: 15px;
+
+    background-color: #111827;
+    color: #e5e7eb;
+    border-radius: 6px;
+}
+
