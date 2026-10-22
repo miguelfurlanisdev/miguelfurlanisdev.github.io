@@ -113,6 +113,7 @@ a{
     gap: 26px;
 }
 .card{
+    
     padding: 24px;
     background-color: #ffffff;
     border: 1px solid #ffff55;
@@ -128,7 +129,7 @@ a{
 
 .lista-tecnologias li{
     padding: 10px 14px;
-    background-color: #ffffff;
+    background-color: #5c7107;
     display: inline-block;
     border: 1px solid #fdfd3bea;
     border-radius: 999px;
